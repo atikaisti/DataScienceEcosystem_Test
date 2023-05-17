@@ -1,0 +1,41 @@
+# test jupyter
+# learnt about Jupyter ecosystem such as markdown, code, order & un order list, etc
+# Data Science Tools and Ecosystem
+In this notebook, Data Science Tools and Ecosystem are summarized
+Some of the popular languages that Data Scientists use are:
+1. RStudio
+2. Jupyter
+3. SQL
+4. JavaScript
+Some of the commonly used libraries used by Data Scientists include:
+1. TensorFlow
+2. NumPy
+3. SciPy
+4. Pandas
+5. Matplotlib
+6. SciKit-Learn
+Data Science Tools
+| Open Source Tools | Function |
+| -------------| ------ |
+| Jupyter Notebooks | Unify documentation, code, output from the code, shell commands, and visualizations in a single document |
+| RStudio | Tightly integrated into the Jupyter tool and provides optimal user experience. RStudio unifies programming, execution, debugging, remote data access, data exploration, and visualization into one tool |
+| Apache Spark | Offering the unique feature of working with distributed datasets, data-frames, and Apache-specific algorithms, this tool is useful to data scientists who are interested in machine learning and text mining. |
+### Below are a few examples of evaluating arithmetic expressions in Jupyter
+# This a simple arithmetic expression to mutiply then add integers
+a = 7
+b = 6
+c = 4
+(a*c)+b
+# This will convert 351 minutes to hours by diving by 60
+total_minutes = 351
+hours = total_minutes / 60
+time = "{}".format(hours)
+print(time)
+Objective:
+From this practice, I've learned how to run Jupyter Notebook such as:
+* User Markdown
+* Use Code
+* Create a Table
+* Calculate simple arithmetic
+## Author
+Atika Isti Aditya Putri
